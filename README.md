@@ -78,6 +78,10 @@ Enhancing-Automated-ICD-Medical-Coding-with-Large-Language-Models/
 
 │
 └── README.md
+|
+|__notebook.ipynb
+|
+|__requirements.txt
 ```
 
 \---
