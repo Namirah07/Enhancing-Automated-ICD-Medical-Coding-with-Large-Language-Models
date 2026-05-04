@@ -164,7 +164,7 @@ python PLM\_ICD/run\_icd.py \\
   --validation\_file shared/dev\_full.csv \\
   --output\_dir output/bert\_single\_label \\
   --model\_mode cls-sum \\
-  --num\_train\_epochs 10
+  --num\_train\_epochs 3
 ```
 
 ### Step 3 — Train Discriminative LLMs
